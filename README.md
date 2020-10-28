@@ -60,4 +60,10 @@ General form of this description is like this:
  ### How long will it take ?
  If you have good MS Word skills and ability to quickly crop the images, entire assignment would be completed within less than 2 hours only!!! 
  
+ ![image](https://user-images.githubusercontent.com/43084197/97431492-694a2400-1940-11eb-8f84-52c7a05393e4.png)
+ 
+ ![image](https://user-images.githubusercontent.com/43084197/97431576-8f6fc400-1940-11eb-80a5-099ccbf2cd1d.png)
+
+ 
+ 
  ## All the best!!!
