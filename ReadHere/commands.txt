@@ -1,0 +1,203 @@
+start
+Enter the Question Number :
+2
+
+ Enter the curve data :
+
+line 0 0 127 127
+line 127 255 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+3
+
+ Enter the curve data :
+
+line 0 255 127 127
+line 127 255 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+4
+
+ Enter the curve data :
+
+line 0 255 127 255
+line 127 127 255 0
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+5
+
+ Enter the curve data :
+
+line 0 255 127 255
+line 127 127 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+6
+
+ Enter the curve data :
+
+line 0 255 127 255
+line 127 255 200 75
+line 200 75 255 75
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+7
+
+ Enter the curve data :
+
+line 0 0 175 200
+line 175 200 255 200
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+8
+
+ Enter the curve data :
+
+line 0 255 175 75
+line 175 75 255 75
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+9
+
+ Enter the curve data :
+
+line 0 0 50 0
+line 50 255 125 255
+line 125 0 200 0
+line 200 255 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+10
+
+ Enter the curve data :
+
+line 0 0 50 0
+line 50 0 75 255
+line 75 255 125 0
+line 125 0 200 0
+line 200 255 255 127
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+11
+
+ Enter the curve data :
+
+line 0 0 64 255
+line 64 255 127 0
+line 127 0 192 255
+line 192 255 255 0
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+12
+
+ Enter the curve data :
+
+line 0 255 64 0
+line 64 0 127 255
+line 127 255 192 0
+line 192 0 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+13
+
+ Enter the curve data :
+
+line 0 255 64 255
+line 64 255 127 0
+line 127 0 192 255
+line 192 255 255 255
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+14
+
+ Enter the curve data :
+
+line 0 255 50 150
+line 50 75 100 150
+line 100 150 150 150
+line 150 150 175 75
+line 175 75 225 150
+line 225 150 255 150
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+15
+
+ Enter the curve data :
+
+line 0 0 75 60
+line 75 60 120 255
+line 120 192 175 192
+line 175 127 200 60
+line 200 60 225 60
+line 225 30 255 0
+end
+Enter the command :
+
+
+start
+Enter the Question Number :
+16
+
+ Enter the curve data :
+
+line 0 255 75 255
+line 75 255 150 0
+line 150 0 200 255
+line 200 255 255 255
+end
+Enter the command :
+
+
+exit
