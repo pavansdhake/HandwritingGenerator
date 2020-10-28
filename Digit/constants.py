@@ -1,0 +1,13 @@
+ones = '../dataset/ones/'
+twos = '../dataset/twos/'
+threes = '../dataset/threes/'
+fours = '../dataset/fours/'
+fives = '../dataset/fives/'
+sixes = '../dataset/sixes/'
+sevens = '../dataset/sevens/'
+eights = '../dataset/eights/'
+nines = '../dataset/nines/'
+zeros = '../dataset/zeros/'
+
+left_braces = '../dataset/left_braces.png'
+right_braces = '../dataset/right_braces.png'
